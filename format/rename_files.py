@@ -4,10 +4,10 @@ import os
 import shutil
 
 # Define the folder containing the text files
-input_folder = './datasets_LA_Augment/valid/labels'
+input_folder = ''
 
 # Define the folder to save the copied and renamed text files
-output_folder = './datasets_LA_Augment/valid/labels'
+output_folder = ''
 
 # Ensure the output folder exists
 os.makedirs(output_folder, exist_ok=True)
