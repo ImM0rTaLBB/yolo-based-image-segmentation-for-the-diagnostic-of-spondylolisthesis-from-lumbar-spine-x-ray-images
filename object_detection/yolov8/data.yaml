@@ -1,0 +1,10 @@
+train: ./datasets_Augment/train/images
+val: ./datasets_Augment/valid/images
+test: ./datasets_Augment/test/images
+
+names:
+  0: L1
+  1: L2
+  2: L3
+  3: L4
+  4: L5
