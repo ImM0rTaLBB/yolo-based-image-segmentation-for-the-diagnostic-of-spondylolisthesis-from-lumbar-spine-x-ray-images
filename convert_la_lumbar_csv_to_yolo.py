@@ -5,9 +5,9 @@ import pandas as pd
 import cv2
 
 # Specify the folder paths
-image_folder = './Yolo_FullVersionXray/BUU_LSPINE_V2/LA'  # Replace with the actual path to your image folder
-csv_folder = './Yolo_FullVersionXray/BUU_LSPINE_V2/LA_CSV'  # Replace with the actual path to your CSV folder
-yolo_format_output_folder = './Yolo_FullVersionXray/BUU_LSPINE_V2/LA_YOLO' # Output folder for YOLO format data
+image_folder = ''  # Replace with the actual path to your image folder
+csv_folder = ''  # Replace with the actual path to your CSV folder
+yolo_format_output_folder = '' # Output folder for YOLO format data
 
 # Create the output folder if it doesn't exist
 os.makedirs(yolo_format_output_folder, exist_ok=True)
