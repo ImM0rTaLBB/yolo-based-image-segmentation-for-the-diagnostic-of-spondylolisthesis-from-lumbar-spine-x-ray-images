@@ -1,4 +1,5 @@
-# This file will using image processing to blur the image by radius of 5. This will create new set of images used for augmentation.
+# This file will using image processing to blur the image by radius of 5. 
+# This will create new set of images used for augmentation.
 
 from PIL import Image, ImageFilter
 import os
