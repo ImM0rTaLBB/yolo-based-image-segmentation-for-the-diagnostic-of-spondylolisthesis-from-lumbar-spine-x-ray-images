@@ -1,0 +1,10 @@
+train: ./datasets_dn/train/images
+val: ./datasets_dn/valid/images
+test: ./datasets_dn/test/images
+
+names:
+  0: L1
+  1: L2
+  2: L3
+  3: L4
+  4: L5
