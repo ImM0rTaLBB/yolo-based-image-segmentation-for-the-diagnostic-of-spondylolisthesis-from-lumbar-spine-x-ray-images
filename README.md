@@ -15,7 +15,7 @@ The causes are from various factors:
 ## Lumber Vertebrae Structure
 | AP (5 Classes) | LA (6 Classes) |
 | :---: | :---: |
-|![image](https://github.com/user-attachments/assets/74f58c2d-74ee-4084-bd47-04e87dead8a1)|![image](https://github.com/user-attachments/assets/ea43a47f-162c-4289-9ed9-265faee06c7d)|
+|![image](https://github.com/user-attachments/assets/da8bd211-be72-4534-b1bf-410999aa54b6)|![image](https://github.com/user-attachments/assets/57a1bdee-69ca-48be-b1f4-51ded6d5c081)|
 
 ## Scope
 * Dataset – The dataset will be collected from publicly available BUU-LSPINE.
